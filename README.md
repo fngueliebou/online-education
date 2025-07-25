@@ -38,8 +38,6 @@ Learnify is your one-stop shop for online education, offering a diverse range of
 
 **Team Learnify**
 
-**P.S.** Have any questions or feedback? We'd love to hear from you! Contact us at email protected or phone number.
-
 **Additional notes:**
 
 * free video publish by your tutors via the site 
